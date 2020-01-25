@@ -1,3 +1,2 @@
 # MyFirstRepos
- I was here
-I am learning how to use a GitHub repository.
+ This is the second branch
